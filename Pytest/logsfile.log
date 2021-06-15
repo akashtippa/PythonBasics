@@ -1,0 +1,7 @@
+2021-06-08 18:49:24,721 :INFO : test_editProfile :Rahul
+2021-06-08 18:49:24,721 :INFO : test_editProfile :rahulshetty.com
+2021-06-08 18:49:24,756 :DEBUG : Pytest.test_Logging :A Debug statement executed
+2021-06-08 18:49:24,756 :INFO : Pytest.test_Logging :Information statement
+2021-06-08 18:49:24,757 :WARNING : Pytest.test_Logging :something is in warning mode
+2021-06-08 18:49:24,757 :ERROR : Pytest.test_Logging :A Major error has happend
+2021-06-08 18:49:24,757 :CRITICAL : Pytest.test_Logging :Critical Issue
